@@ -34,7 +34,7 @@ repositories {
   }
 }
 
-def gradleAndroidPluginVersion = '1.2.2-SNAPSHOT'
+def gradleAndroidPluginVersion = '1.2.1'
 
 dependencies {
   groovy localGroovy()
